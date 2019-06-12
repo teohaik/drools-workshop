@@ -15,7 +15,7 @@
         <kie.version>6.3.0.Final</kie.version>
         <junit.version>4.11</junit.version>
         <cdi.version>1.2</cdi.version>
-        <weld.version>2.3.0.Final</weld.version>
+        <weld.version>2.4.0.Final</weld.version>
     </properties>
     <dependencyManagement>
         <dependencies>
@@ -119,7 +119,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>14.0</version>
+            <version>24.1.1-jre</version>
         </dependency>
     </dependencies>
 </project>
