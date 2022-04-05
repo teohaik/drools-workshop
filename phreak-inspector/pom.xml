@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kie.version>6.3.0.Final</kie.version>
+        <kie.version>7.32.0.k20191220</kie.version>
     </properties>
 
     <dependencies>
