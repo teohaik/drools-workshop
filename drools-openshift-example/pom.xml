@@ -10,7 +10,7 @@
     <properties>
         <github.global.server>github</github.global.server>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kie.version>6.4.0.CR1</kie.version>
+        <kie.version>8.29.0.Final</kie.version>
         <junit.version>4.11</junit.version>
         <cdi.version>1.2</cdi.version>
         <version.wildfly-swarm>1.0.0.Beta6</version.wildfly-swarm>
