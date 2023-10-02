@@ -18,7 +18,7 @@
   
     <properties>
         <!-- Define the version of the JBoss BOMs we want to import to specify tested stacks. -->
-        <kie.version>6.3.0.Final</kie.version>
+        <kie.version>7.4.0.Final</kie.version>
         <java.min.version>1.7</java.min.version>
         <maven.min.version>3.2.3</maven.min.version>
         <version.wildfly>9.0.0.Beta2</version.wildfly>
